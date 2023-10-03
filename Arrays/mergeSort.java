@@ -1,5 +1,4 @@
 import java.util.Collections;
-
 public class Solution {
 
     public static void conquer(int[] arr, int si, int mid, int ei) {
