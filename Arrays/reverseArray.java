@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+//easy array
 public class Solution {
     public static void reverseArray(ArrayList<Integer> arr, int m) {
         // Write your code here.
