@@ -1,4 +1,3 @@
-import java.util.*;
 
 class Program {
     static void maxProduct(int arr[], int n) {
